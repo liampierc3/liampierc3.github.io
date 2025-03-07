@@ -22,8 +22,8 @@ const nextConfig = {
     parallelServerCompiles: true,
   },
   output: 'export',
-  basePath: process.env.NEXT_PUBLIC_BASE_PATH || '',
-  assetPrefix: process.env.NEXT_PUBLIC_BASE_PATH || '',
+  basePath: '/liampierc3.github.io-v3',
+  assetPrefix: '/liampierc3.github.io-v3',
 }
 
 mergeConfig(nextConfig, userConfig)
