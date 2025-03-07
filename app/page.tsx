@@ -86,7 +86,7 @@ export default function Home() {
                       Reel
                     </Link>
                     <Link
-                      href="https://www.youtube.com/@pierce_liam"
+                      href="https://www.youtube.com/@liampierc3"
                       target="_blank"
                       className="text-sm text-white hover:text-white/70 transition-colors underline font-mono"
                     >
